@@ -332,6 +332,15 @@ font-style: italic;
 font-weight: normal;
 }
 
+.message-group h2 .timestamp {
+
+font-family: cursive;
+
+font-style: italic;
+
+font-weight: bolder;
+}
+
 .theme-dark .autocomplete-1TnWNR {
     background-color: #000000;
 }
