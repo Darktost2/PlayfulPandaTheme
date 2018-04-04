@@ -236,20 +236,100 @@ Spotify Color RGB 69, 214, 34
     border-radius: 15px;
 }
 
-.status-dnd {
-    background-color: rgb(255, 0, 74);
-}
-
-.status-invisible, .status-offline {
-    background-color: #ffffff;
+.status-online {
+    background-color:#1fd4e8;
 }
 
 .status-idle {
-    background-color: #ffb900;
+    background-color:#66e806;
 }
 
-.status-online {
-    background-color: #00ffaf;
+.status-dnd {
+    background-color:#f59808;
+}
+
+.status-invisible, .status-offline {
+    background-color:#8e0dec;
+}
+
+.status-streaming {
+  background-color:#870cff;
+}
+
+.message-group .comment .markup {
+
+font-family: cursive;
+
+font-style: italic;
+
+font-weight: normal;
+}
+
+.overflowEllipsis-3Rxxjf {
+
+font-family: cursive;
+
+font-style: italic;
+
+font-weight: normal;
+}
+
+.channel-members h2 {
+ 
+font-family: cursive;
+
+font-style: italic;
+
+font-weight: normal;
+}
+
+.name-3gtcmp {
+
+font-family: cursive;
+
+font-style: italic;
+
+font-weight: normal;
+}
+
+.channelName-1G03vu, .titleText-2IfpkV {
+
+font-family: cursive;
+
+font-style: italic;
+
+font-weight: normal;
+}
+
+.statusOffline-jZXr_u {
+    background-color:#8e0dec;
+}
+
+.colorTransition-2iZaYd{
+
+font-family: cursive;
+
+font-style: italic;
+
+font-weight: normal;
+}
+
+#friends .tab-bar{
+
+font-family: cursive;
+
+font-style: italic;
+
+font-weight: normal;
+}
+
+strong.user-name{
+
+font-family: cursive;
+
+font-style: italic;
+
+font-weight: normal;
 }
 
 .theme-dark .autocomplete-1TnWNR {
@@ -288,6 +368,8 @@ Spotify Color RGB 69, 214, 34
 .message-group .edit-message .edit-operation>a {
     color: rgba(82, 56, 233, 1);
 }
+
+
 
 /*
     EMOJI PICKER
